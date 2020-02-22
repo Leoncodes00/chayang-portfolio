@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Leoncodes00/chayang-portfolio/issues"
   },
-  "homepage": "https://github.com/Leoncodes00/chayang-portfolio#readme"
+  "homepage": "https://github.com/Leoncodes00/chayang-portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
